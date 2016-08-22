@@ -8,3 +8,4 @@ gem 'rake_commit'
 gem 'shenzhen'
 gem 'xcpretty'
 
+gem 'nokogiri', '>= 1.6.8'
